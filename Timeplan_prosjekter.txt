@@ -12,3 +12,5 @@ R prosjekter:
 - AS/PS/ICER/helsetap. 
 - Bayes prosjekt i R med indirekte sammenligning. Her kunne vi allerede nå prøve å finne på data som muligens kunne brukes samt R scripts som vi har mottatt som også kan hjelpe til. 
 - Descriptive statistics
+
+Marge s.hus, [inn her hensiktsmessig?]
