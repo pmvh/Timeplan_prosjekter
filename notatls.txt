@@ -1,0 +1,36 @@
+Eksempel-delen
+Foreslår å bygge opp fra enkelt til komplisert
+
+A vs B
+--------
+A vs B, B vs C
+A vs B1, B2 vs C
+--------
+A vs B, B vs C, C vs D
+A vs B1, B2 vs C, C vs D
+A vs B1, B2 vs C1, C2 vs D
+--------
+A vs B, C vs D
+(ingen felles å justere for)
+
+
+Enkle NMB-likninger
+(For A vs B også vise ved IKER)
+
+Vise hvordan justere B2 for å bli lik B1.
+- Hva må Q endres med?
+- Hva må C endres med?
+- Da vil NMB-kurven for B1 bli lik B2.
+- Justere Q og C for A eller C tilsvarende.
+- Da er alle sammenlignbare
+
+Tegne alle eksemplene grafisk. Enkelt når alle NMB-likningene er i Excel
+Vise før og etter justering
+
+Problematisere med A vs B, C vs D
+
+Til slutt se på hvordan dette er når vi har generert lange rader for kostnadsresultatene i modellen.
+Pris vil (trolig) sjelden være en fast andel av resultatene. Justering av kostnadssidene ift. hverandre må derfor
+først gjøres etter at pris er valgt. Så det må legges opp dynamisk!
+
+Se ellers notater 200615....
