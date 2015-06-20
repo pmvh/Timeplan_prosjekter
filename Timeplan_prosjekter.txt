@@ -7,6 +7,10 @@ Bayes: her må det deles i små deler og tidslinje. Per i dag: tom kapittel 5 in
 Artikkel: Er det noe fra notatet som kan/bør/skal brukes? Muligens fint med forslag til fagliterattur til lesing som kan brukes videre som referanse.
 
 Bayes intro til seksjonen (FH) og oppfrisking i R og Git (PMV) 
+- Dele Bayes-intro i flere deler
+ * Lett intro, Bayes teorem, prior-posterior, kredible intervaller, matematisk vs. data, hvert sitt verktøy, etc.
+ * MTC, fallgruver, hva skiller fra frekventisk, heterogenitet: Fixed vs. Random, etc.
+ * Hierarkiske modeller og shrinkage!? R-script?
 
 R prosjekter: 
 - AS/PS/ICER/helsetap. 
